@@ -10,8 +10,9 @@
 }
 .pressStart {
   font-family: "Press Start 2P", system-ui;
-  font-weight: 400;
+  font-weight: 200;
   font-style: normal;
+  text-align: left;
 }
 .skillset {
   display: block;
